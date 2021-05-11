@@ -1,0 +1,31 @@
+<mat-drawer-container class="example-container" autosize>
+    <mat-drawer #drawer class="example-sidenav" mode="side">
+        <mat-list>
+            <a mat-list-item routerLink="/image">Image</a>
+            <mat-divider></mat-divider>
+            <a mat-list-item routerLink="/e-commarce">e-commerce</a>
+            <mat-divider></mat-divider>
+            <a mat-list-item routerLink="/count-down">count-down</a>
+            <mat-divider></mat-divider>
+            <a mat-list-item routerLink="/count-down-obv">count-down-obv</a>
+            <mat-divider></mat-divider>
+            <a mat-list-item routerLink="/student-table">student-table</a>
+            <mat-divider></mat-divider>
+            <a mat-list-item routerLink="/dynamic-divs">Dynamic-div's</a>
+        </mat-list>
+    </mat-drawer>
+
+    <div class="example-sidenav-content">
+        <mat-toolbar>
+            <button (click)="drawer.toggle()" mat-icon-button class="example-icon"
+                aria-label="Example icon-button with menu icon">
+                <mat-icon>menu</mat-icon>
+            </button>
+            <span class="mr-1">My App</span>
+        </mat-toolbar>
+        <div>
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+
+</mat-drawer-container>

@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Dell Laptope",
+        "price": 54000,
+        "description": "Dell Laptope , Ultra thin , high speed",
+        "imgSource": "assets/lap-1.jpg"
+    },
+    {
+        "name": "Asus Laptop",
+        "price": 60000,
+        "description": "Asus Laptop , Altra thin , high speed , core i7",
+        "imgSource": "assets/lap-2.jpg"
+    },
+    {
+        "name": "Macbook Air",
+        "price": 100,
+        "description": "Macbook Air , Apple product , best speed and good screen",
+        "imgSource": "assets/lap-3.jpg"
+    },
+    {
+        "name": "Dell inspiron 5423",
+        "price": 100,
+        "description": "Dell inspiron , Grey Color",
+        "imgSource": "assets/lap-4.jpg"
+    },
+    {
+        "name": "HP Gaming Laptop",
+        "price": 100,
+        "description": "HP , Cool design and graphics",
+        "imgSource": "assets/lap-5.jpg"
+    },
+    {
+        "name": "Macbook Pro",
+        "price": 250000,
+        "description": "Apple Macbook Pro , High speed",
+        "imgSource": "assets/lap-6.jpg"
+    },
+    {
+        "name": "Lenovo G565",
+        "price": 100,
+        "description": "Lenovo , Best design can rotate 360",
+        "imgSource": "assets/lap-7.jpg"
+    },
+    {
+        "name": "Asus Ej2524",
+        "price": 83208,
+        "description": "Asus Ej2524 , ALIENWARE M15 GAMING LAPTOP",
+        "imgSource": "assets/lap-8.jpg"
+    },
+    {
+        "name": "Microsoft",
+        "price": 223232,
+        "description": "Microsoft , Window 10",
+        "imgSource": "assets/lap-9.jpg"
+    },
+    {
+        "name": "Dell 7263",
+        "price": 23111,
+        "description": "Dell 7263 , core i3",
+        "imgSource": "assets/lap-10.jpg"
+    },
+    {
+        "name": "Macbook Air 232",
+        "price": 54000,
+        "description": "Macbook Air , Ultra thin , high speed",
+        "imgSource": "assets/lap-11.jpg"
+    },
+    {
+        "name": "Lenovo Thinkpad 112",
+        "price": 60000,
+        "description": "Lenovo , Professional Laptop",
+        "imgSource": "assets/lap-12.jpg"
+    },
+    {
+        "name": "IBM Laptop",
+        "price": 23232,
+        "description": "IBM",
+        "imgSource": "assets/lap-13.jpg"
+    },
+    {
+        "name": "HP 1423",
+        "price": 29090,
+        "description": "HP 1423 , black Color",
+        "imgSource": "assets/lap-14.jpg"
+    },
+    {
+        "name": "Asus Laptop PW1212",
+        "price": 100,
+        "description": "Asus Laptop PW1212 , Cool design",
+        "imgSource": "assets/lap-15.jpg"
+    },
+    {
+        "name": "Microsoft surface",
+        "price": 170000,
+        "description": "Microsoft surface , black color , High speed",
+        "imgSource": "assets/lap-16.jpg"
+    },
+    {
+        "name": "Samsung Laptop",
+        "price": 91019,
+        "description": "Samsung , Thin and classy",
+        "imgSource": "assets/lap-17.jpg"
+    },
+    {
+        "name": "Acer 121pwe",
+        "price": 83208,
+        "description": "Acer 121pwe , Grey Color",
+        "imgSource": "assets/lap-18.jpg"
+    },
+    {
+        "name": "Acer U82i",
+        "price": 89119,
+        "description": "Acer U82i , Window 10 , gaming laptop",
+        "imgSource": "assets/lap-19.jpg"
+    },
+    {
+        "name": "Lenovo 21321",
+        "price": 65000,
+        "description": "Lenovo 21321 , core i5 , 256 GB SSD",
+        "imgSource": "assets/lap-20.jpg"
+    },
+    {
+        "name": "HP EliteBook",
+        "price": 42333,
+        "description": "HP EliteBook , Ultra thin , high speed , gold color",
+        "imgSource": "assets/lap-21.jpg"
+    },
+    {
+        "name": "Acer 99ad",
+        "price": 78000,
+        "description": "Acer 99ad , Professional Laptop",
+        "imgSource": "assets/lap-22.jpg"
+    },
+    {
+        "name": "IBM Laptop",
+        "price": 23232,
+        "description": "IBM",
+        "imgSource": "assets/lap-23.jpg"
+    },
+    {
+        "name": "Samsung Laptop",
+        "price": 29090,
+        "description": "Samsung Laptop , Silver Color",
+        "imgSource": "assets/lap-24.jpg"
+    },
+    {
+        "name": "Dell Laptop 2212",
+        "price": 100,
+        "description": "Dell Laptop 2212 , Black color , 16 GB RAM",
+        "imgSource": "assets/lap-25.jpg"
+    },
+    {
+        "name": "Asus Laptop",
+        "price": 92992,
+        "description": "Asus Laptop , black color , High speed",
+        "imgSource": "assets/lap-26.jpg"
+    },
+    {
+        "name": "Microsoft Surface pro",
+        "price": 91019,
+        "description": "Microsoft Surface pro , Thin and professional",
+        "imgSource": "assets/lap-27.jpg"
+    },
+    {
+        "name": "HP EliteBook - Core i7",
+        "price": 140000,
+        "description": "HP EliteBook - Core i7 , Silver color , ultra thin",
+        "imgSource": "assets/lap-28.jpg"
+    },
+    {
+        "name": "Lenovo Thinkpad UP19",
+        "price": 67000,
+        "description": "Lenovo Thinkpad UP19 , Corporate report",
+        "imgSource": "assets/lap-29.jpg"
+    },
+    {
+        "name": "HP - 7193",
+        "price": 78000,
+        "description": "HP - 7193 , core i5 , 256 GB SSD",
+        "imgSource": "assets/lap-30.jpg"
+    },
+    {
+        "name": "Microsoft surface pro - 2",
+        "price": 123000,
+        "description": "Microsoft surface pro - 2 , Ultra thin , high speed",
+        "imgSource": "assets/lap-31.jpg"
+    },
+    {
+        "name": "Dell insipiron 5125",
+        "price": 63000,
+        "description": "Dell insipiron 5125 , Black color , high speed , core i7",
+        "imgSource": "assets/lap-32.jpg"
+    },
+    {
+        "name": "Macbook Air",
+        "price": 90000,
+        "description": "Macbook Air , Apple product , best speed and good screen",
+        "imgSource": "assets/lap-33.jpg"
+    },
+    {
+        "name": "Macbook Air 2",
+        "price": 120000,
+        "description": "Macbook Air 2 , silver Color , ultra thin",
+        "imgSource": "assets/lap-34.jpg"
+    },
+    {
+        "name": "Lenovo G567",
+        "price": 42000,
+        "description": "Lenovo G567 , Grey color and 16 GB RAM",
+        "imgSource": "assets/lap-35.jpg"
+    },
+    {
+        "name": "Lenovo Yoga",
+        "price": 156000,
+        "description": "Lenovo Yoga , 360 rotate",
+        "imgSource": "assets/lap-36.jpg"
+    },
+    {
+        "name": "Lenovo Thinkpad 827",
+        "price": 67000,
+        "description": "Lenovo Thinkpad 827 , Best design can rotate 360",
+        "imgSource": "assets/lap-37.jpg"
+    },
+    {
+        "name": "Macbook Air 3",
+        "price": 123122,
+        "description": "Macbook Air 3 , silver Color , ultra thin",
+        "imgSource": "assets/lap-34.jpg"
+    },
+    {
+        "name": "Macbook Air 4",
+        "price": 123000,
+        "description": "Macbook Air 4 , silver Color , ultra thin",
+        "imgSource": "assets/lap-34.jpg"
+    },
+    {
+        "name": "Lenovo G567",
+        "price": 42000,
+        "description": "Lenovo G567 , Grey color and 16 GB RAM",
+        "imgSource": "assets/lap-35.jpg"
+    }
+]

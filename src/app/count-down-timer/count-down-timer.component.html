@@ -1,0 +1,16 @@
+<div class="container">
+    <div class="row">
+        <div class="col-6 border center">
+            <app-timer [time]="timeframe" [eventType]="eventType" (pauseLogsEmitter)="getPauseLogs($event)"></app-timer>
+        </div>
+        <div class="col-6 border center">
+            <app-start-pause (performTask)="performTask($event)" (logs)="getLogs($event)" [pauseLogs]="pauseLogs">
+            </app-start-pause></div>
+            <div class="col-6 border center">
+                <app-logs [logs]="allLogs"></app-logs>
+            </div>
+            <div class="col-6 border center">
+                <app-counts [startCount]="startCount" [pauseCount]="pauseCount"></app-counts>
+            </div>
+        </div>
+    </div>

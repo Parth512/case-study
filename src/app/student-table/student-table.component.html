@@ -1,0 +1,22 @@
+<div class="container">
+    <table class="table table-striped table-responsive-md btn-table table-width">
+        <thead>
+            <tr>
+                <th *ngFor="let item of displayedColumns">
+                    <span class="table-heading" (click)="sort(item)">{{item}}</span>
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let data of dataSource">
+                <th>{{ data.name }}</th>
+                <td>{{ data.class }}</td>
+                <td>{{ data.section }}</td>
+                <td>{{ data.sub1 }}</td>
+                <td>{{ data.sub2 }}</td>
+                <td>{{ data.sub3 }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

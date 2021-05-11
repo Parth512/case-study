@@ -1,0 +1,13 @@
+<p>Enter Timer Limit</p>
+<input type="number" class="form-control" [(ngModel)]="timeFrame" />
+
+<div class="mt-4">
+    <button (click)="sentEvent('start')">Start / Pause</button>
+    <button (click)="sentEvent('reset')">Reset</button>
+</div>
+
+<ng-container *ngFor="let log of pauseLogs">
+    <div>
+        {{log}}
+    </div>
+</ng-container>

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Parth",
+        "class": "2",
+        "section": "A",
+        "sub1": 42,
+        "sub2": 41,
+        "sub3": 49
+    },
+    {
+        "name": "Arya",
+        "class": "1",
+        "section": "B",
+        "sub1": 39,
+        "sub2": 41,
+        "sub3": 49
+    },
+    {
+        "name": "Harsh",
+        "class": "2",
+        "section": "D",
+        "sub1": 24,
+        "sub2": 36,
+        "sub3": 22
+    },
+    {
+        "name": "Vikash",
+        "class": "4",
+        "section": "C",
+        "sub1": 45,
+        "sub2": 41,
+        "sub3": 40
+    },
+    {
+        "name": "Ravi",
+        "class": "3",
+        "section": "A",
+        "sub1": 42,
+        "sub2": 41,
+        "sub3": 49
+    },
+    {
+        "name": "Avinash",
+        "class": "1",
+        "section": "F",
+        "sub1": 32,
+        "sub2": 40,
+        "sub3": 33
+    }
+]
